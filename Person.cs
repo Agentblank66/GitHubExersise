@@ -14,7 +14,7 @@ public class Person
     {
         Name = name;
         Id = id;
-
+        FirstName = name;
     }
 
     public override string ToString()
